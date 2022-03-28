@@ -10,10 +10,10 @@ oneNeuron_pypi >>> This python package is a implimentation of single neuron neur
 
 pip install oneNeuron-pypi-tripathimanoj
 
-pip install oneNeuron-pypi-tripathimanoj==0.0.6
+pip install oneNeuron-pypi-tripathimanoj==0.0.7
 
 ```
-![Installation >>>](https://drive.google.com/file/d/18VXbkNlKQ_KraLia2iRk4qZKDFhQb_nT/view?usp=sharing)
+![Installation >>>](https://github.com/tripathimanoj/oneNeuron_pypi/blob/main/installing.PNG?raw=true)
 
 ```python
 from oneNeuron.perceptron import Perceptron
@@ -22,8 +22,9 @@ from oneNeuron.perceptron import Perceptron
 model=Perceptron(eta=eta,epochs=epochs)
 model.fit(X,y)
 ```
-![Importing >>>](https://drive.google.com/file/d/1-K1NEQulRfwkHUA1RPF_bmooTgdPORXA/view?usp=sharing))
-![Output >>>](https://drive.google.com/file/d/1J0fQCTZ8AKBkf2KH4kAdmAvaawIBrKfY/view?usp=sharing)
+![Importing >>>](https://github.com/tripathimanoj/oneNeuron_pypi/blob/main/importing.PNG?raw=true))
+
+![Output >>>](https://github.com/tripathimanoj/oneNeuron_pypi/blob/main/running_logging.PNG?raw=true)
 
 
 ## PERCEPTRON >>>
