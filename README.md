@@ -13,7 +13,7 @@ pip install oneNeuron-pypi-tripathimanoj
 pip install oneNeuron-pypi-tripathimanoj==0.0.3
 
 ```
-![Installation >>>](/installing.PNG)
+![Installation >>>](https://github.com/tripathimanoj/oneNeuron_pypi/blob/main/installing.PNG)
 
 ```python
 from oneNeuron.perceptron import Perceptron
@@ -22,8 +22,8 @@ from oneNeuron.perceptron import Perceptron
 model=Perceptron(eta=eta,epochs=epochs)
 model.fit(X,y)
 ```
-![Importing >>>](/importing.PNG)
-![Output >>>](/running_logging.PNG)
+![Importing >>>](https://drive.google.com/file/d/1-K1NEQulRfwkHUA1RPF_bmooTgdPORXA/view?usp=sharing)
+![Output >>>](https://drive.google.com/file/d/1J0fQCTZ8AKBkf2KH4kAdmAvaawIBrKfY/view?usp=sharing)
 
 
 ## PERCEPTRON >>>
