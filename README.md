@@ -10,7 +10,7 @@ oneNeuron_pypi >>> This python package is a implimentation of single neuron neur
 
 pip install oneNeuron-pypi-tripathimanoj
 
-pip install oneNeuron-pypi-tripathimanoj==0.0.3
+pip install oneNeuron-pypi-tripathimanoj==0.0.4
 
 ```
 ![Installation >>>](https://drive.google.com/file/d/18VXbkNlKQ_KraLia2iRk4qZKDFhQb_nT/view?usp=sharing)
