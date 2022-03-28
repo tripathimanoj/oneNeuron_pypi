@@ -22,8 +22,8 @@ from oneNeuron.perceptron import Perceptron
 model=Perceptron(eta=eta,epochs=epochs)
 model.fit(X,y)
 ```
-![Importing >>>](https://drive.google.com/file/d/1-K1NEQulRfwkHUA1RPF_bmooTgdPORXA/view?usp=sharing)
-![Output >>>](https://drive.google.com/file/d/1J0fQCTZ8AKBkf2KH4kAdmAvaawIBrKfY/view?usp=sharing)
+![Importing >>>](https://github.com/tripathimanoj/oneNeuron_pypi/blob/main/importing.PNG))
+![Output >>>](https://github.com/tripathimanoj/oneNeuron_pypi/blob/main/running_logging.PNG)
 
 
 ## PERCEPTRON >>>
