@@ -10,9 +10,10 @@ oneNeuron_pypi >>> This python package is a implimentation of single neuron neur
 
 pip install oneNeuron-pypi-tripathimanoj
 
-pip install oneNeuron-pypi-tripathimanoj==0.0.1
+pip install oneNeuron-pypi-tripathimanoj==0.0.3
 
 ```
+![Installation >>>](/installing.PNG)
 
 ```python
 from oneNeuron.perceptron import Perceptron
@@ -21,6 +22,10 @@ from oneNeuron.perceptron import Perceptron
 model=Perceptron(eta=eta,epochs=epochs)
 model.fit(X,y)
 ```
+![Importing >>>](/importing.PNG)
+![Output >>>](/running_logging.PNG)
+
+
 ## PERCEPTRON >>>
 
 Perceptron(A single neuron neural network) were developed in the 1950s and 1960s by the scientist Frank Rosenblatt, inspired by earlier work by Warren McCulloch and Walter Pitts.  It is  the initial basic algorithm for supervised learning of binary classifier, i.e. a classification algorithm that makes its predictions based on a linear predictor function combining a set of weights with the feature vector.
