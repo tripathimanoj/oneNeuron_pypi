@@ -2,18 +2,20 @@
 oneNeuron_pypi >>> This python package is a implimentation of single neuron neural network(Perceptron)
 
 ## How to use this 
-### Installation of this package...
 
+### Installation of the package...
 #### Try any one of them  in terminal...
 
 ```bash
 
 pip install oneNeuron-pypi-tripathimanoj
 
-pip install oneNeuron-pypi-tripathimanoj==0.0.7
+pip install oneNeuron-pypi-tripathimanoj==0.0.8
 
 ```
 ![Installation >>>](https://github.com/tripathimanoj/oneNeuron_pypi/blob/main/installing.PNG?raw=true)
+
+### Importing the package...
 
 ```python
 from oneNeuron.perceptron import Perceptron
@@ -23,6 +25,8 @@ model=Perceptron(eta=eta,epochs=epochs)
 model.fit(X,y)
 ```
 ![Importing >>>](https://github.com/tripathimanoj/oneNeuron_pypi/blob/main/importing.PNG?raw=true))
+
+### Output of package...
 
 ![Output >>>](https://github.com/tripathimanoj/oneNeuron_pypi/blob/main/running_logging.PNG?raw=true)
 
